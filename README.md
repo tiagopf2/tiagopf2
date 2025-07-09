@@ -1,6 +1,6 @@
 <h2 align="left">Hey 👋 What's up?</h2>
 
-<p align="left">I'm Tiago Perez — a cybersecurity enthusiast, creative coder, and builder of slightly obsessive personal projects. Originally from Spain, currently exploring the intersection of security, automation, and creativity from anywhere I can connect to Wi-Fi.</p>
+<p align="left">I'm Tiago Perez, a cybersecurity enthusiast, creative coder, and builder of slightly obsessive personal projects. Anderson University student, currently exploring the intersection of security, automation, and creativity.</p>
 
 ---
 
